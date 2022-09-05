@@ -1,8 +1,7 @@
 import requests
 import time
 import json
-from tqdm import tqdm
-from tqdm import trange
+from tqdm import tqdm, trange
 
 
 def vk_to_ya(count_photos=5):
